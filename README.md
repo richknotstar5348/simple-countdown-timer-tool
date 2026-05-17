@@ -1,2 +1,9 @@
-# simple-countdown-timer-tool
-A simple countdown timer project
+# Countdown Timer
+
+A simple countdown timer project.
+\n
+## Getting Started
+
+```bash
+python countdown.py
+```
